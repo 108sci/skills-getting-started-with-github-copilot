@@ -43,7 +43,7 @@ activities = {
         "description": "Explore creativity through painting, drawing, and sculpture",
         "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 15,
-        "participants": ["john@mergington.edu","stella@mergington.edu"]
+        "participants": ["john@mergington.edu",""]
     }
 }
 
